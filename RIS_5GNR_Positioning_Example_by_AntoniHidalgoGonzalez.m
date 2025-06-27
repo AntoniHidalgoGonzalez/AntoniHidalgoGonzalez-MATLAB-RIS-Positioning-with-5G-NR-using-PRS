@@ -559,4 +559,4 @@ end
 %% From here on if you want to compile the code you have to insert 
 % the functions validateCarriers, validateNumLayers, colors and plotGrid if
 % you want to plot, the other functions have been omitted or are not
-% necessary to compile.
+% necessary to compile. Also it is necessary to have the hpre6G functions installed
