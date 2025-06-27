@@ -2,7 +2,7 @@ To compile and run this MATLAB code, you will need two example packages from Mat
 
 5G NR PRS Positioning Example
 In MATLAB, execute:
-openExample('5g/NewRadioPRSPositioningExample')
+openExample('5g/NewRadioPRSPositioningExample') and then copy all the functions into the code
 Or visit the documentation page and download the files directly: https://es.mathworks.com/help/5g/ug/nr-prs-positioning.html
 
 Pre-6G Reconfigurable Intelligent Surfaces Example
