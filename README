@@ -1,0 +1,13 @@
+To compile and run this MATLAB code, you will need two example packages from MathWorks:
+
+5G NR PRS Positioning Example
+In MATLAB, execute:
+openExample('5g/NewRadioPRSPositioningExample')
+Or visit the documentation page and download the files directly: https://es.mathworks.com/help/5g/ug/nr-prs-positioning.html
+
+Pre-6G Reconfigurable Intelligent Surfaces Example
+In MATLAB R2025a (or later), execute:
+openExample('pre6g/ModelReconfigurableIntelligentSurfacesWithCDLChannelsExample')
+Or download from: https://es.mathworks.com/help/5g/ug/model-reconfigurable-intelligent-surfaces-with-cdl-channels.html
+
+Both examples include the necessary functions (e.g., hpre6G) and data files. I encourage you to review each documentation page for additional details.
